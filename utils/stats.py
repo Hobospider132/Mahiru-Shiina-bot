@@ -1,4 +1,4 @@
 import hikari
 
-TOKEN="MTA2OTc0MDU3NTg0NDIyNTE1NA.GZPe-I.6SIz_L6Jmu9xdKfhKdj_nSP53J9fN51Ecl3Ay4"
+TOKEN="Mahiru Token here"
 INTENTS = (hikari.Intents.MESSAGE_CONTENT, hikari.Intents.ALL_UNPRIVILEGED)
